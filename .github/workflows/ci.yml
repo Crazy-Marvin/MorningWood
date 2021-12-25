@@ -1,0 +1,14 @@
+name: CI
+on: push
+jobs:
+ build:
+  runs-on: ubuntu-latest
+  steps:
+    - name: "📥 Check-out"
+      uses: actions/checkout@v2
+    - name: "🏗 Setup Elm"
+      uses: JorelAli/setup-elm@v3
+    - name: "📤 Upload code coverage"
+      uses: codecov/codecov-action@v1
+      with:
+          token: ${{ secrets.CODECOV_TOKEN }}

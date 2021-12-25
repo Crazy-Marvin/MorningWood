@@ -1,0 +1,4 @@
+# In this example, any change inside the `/src` directory
+# and in the elm.json will require approval from @CrazyMarvin or @aforemny .
+/src/ @CrazyMarvin @aforemny
+elm.json @CrazyMarvin @aforemny
