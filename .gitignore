@@ -64,3 +64,6 @@ xcuserdata/
 
 # CocoaPods
 Pods/
+
+# Keystore
+key.properties
