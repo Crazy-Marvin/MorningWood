@@ -8,8 +8,8 @@
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/MorningWood.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/pulls)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/379c59381e784f42b5910864e574bd8e)](https://www.codacy.com/gh/Crazy-Marvin/MorningWood?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/MorningWood&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/Crazy-Marvin/MorningWood/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-Marvin/MorningWood)
-[![Translation status](https://hosted.weblate.org/widgets/flashy/-/svg-badge.svg)](https://hosted.weblate.org/engage/flashy/)
-[![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/MorningWood/badge.svg?targetFile=app%2Fbuild.gradle)](https://snyk.io/test/github/Crazy-Marvin/MorningWood?targetFile=app%2Fbuild.gradle)
-[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+[![Translation status](https://hosted.weblate.org/widgets/morningwood/-/svg-badge.svg)](https://hosted.weblate.org/engage/morningwood/)
+[![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/MorningWood/badge.svg)](https://snyk.io/test/github/Crazy-Marvin/MorningWood)
+[![API](https://img.shields.io/badge/API-29%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=29)
 [![Google Play](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal.morning_wood)
 # Morning Wood
