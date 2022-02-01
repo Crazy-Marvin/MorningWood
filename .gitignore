@@ -65,5 +65,8 @@ xcuserdata/
 # CocoaPods
 Pods/
 
+# FlutterFire
+firebase_options.dart
+
 # Keystore
 key.properties

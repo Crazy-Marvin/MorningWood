@@ -1,4 +1,9 @@
 import 'package:flutter/material.dart';
+import 'firebase_options.dart'; //FluterFire CLI
+
+await Firebase.initializeApp(
+options: DefaultFirebaseOptions.currentPlatform,
+); //FlutterFire CLI
 
 // The main function is the entrance point for all Flutter apps
 void main()  {
