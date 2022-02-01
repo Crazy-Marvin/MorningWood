@@ -13,7 +13,7 @@ void main()  {
   body: Center(
       child: Image (
       image:
-          NetworkImage('')
+          NetworkImage('https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png'),
       ), //Image
       ), //Center
     ), //Scaffold
