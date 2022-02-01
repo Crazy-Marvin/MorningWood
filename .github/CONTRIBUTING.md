@@ -1,40 +1,14 @@
 # Setup
 
-### 🐧 Linux
-- [Install Elm](https://github.com/elm/compiler/blob/master/installers/linux/README.md)
-
-  - curl -L -o elm.gz https://github.com/elm/compiler/releases/download/0.19.1/binary-for-linux-64-bit.gz
-
-  - gunzip elm.gz
-
-  - chmod +x elm
-
-  - sudo mv elm /usr/local/bin/
-
-- Install [Visual Studio Code](https://code.visualstudio.com/)
-
-  - sudo snap install code --classic
-
-  - Enable the ```elmtooling.elm-ls-vscode``` extension
-
-  - sudo apt install npm
-
-  - sudo npm install -g elm-test elm-format elm-review
-
-### Windows
-
- - [Install Elm](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe)
-    - Put the ```elm-format.exe``` from [avh4/elm-format](https://github.com/avh4/elm-format/releases) into ```C:\Program Files (x86)\Elm\0.19.1\bin```
- - Install [Visual Studio Code](https://code.visualstudio.com/) 
-    - Enable the ```elmtooling.elm-ls-vscode``` extension
-
-# Running
-
-elm reactor
+- Install Flutter: sudo snap install flutter --classic
+- Install FlutterFire: flutter pub add firebase_core
+- Activate FlutterFire: dart pub global activate flutterfire_cli and then flutterfire configure
+- Run fastlane: bundle exec fastlane [lane]
 
 # CI & tests
 
-GitHub Actions
+- GitHub Actions & Codemagic
+- Firebase Test Lab
 
 # Deployment
 
