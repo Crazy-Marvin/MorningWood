@@ -1,9 +1,9 @@
 # Setup
 
-- Install Flutter: sudo snap install flutter --classic
-- Install FlutterFire: flutter pub add firebase_core
+- Install [Flutter](https://docs.flutter.dev/get-started/install/linux): sudo snap install flutter --classic
+- Install [FlutterFire](https://firebase.flutter.dev/docs/overview): flutter pub add firebase_core
 - Activate FlutterFire: dart pub global activate flutterfire_cli and then flutterfire configure
-- Run fastlane: bundle exec fastlane [lane]
+- Run [fastlane](https://docs.fastlane.tools/) (needs [Ruby](https://www.ruby-lang.org/) 2.5 or newer): bundle exec fastlane [lane]
 
 # CI & tests
 
@@ -12,8 +12,7 @@
 
 # Deployment
 
-Hosting: GitHub Pages
-Backend: Supabase
+-
 
 Secrets are stored on GitHub
 
