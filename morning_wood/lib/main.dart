@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'firebase_options.dart'; //FluterFire CLI
+import 'firebase_options.dart'; //FlutterFire CLI
 
 await Firebase.initializeApp(
 options: DefaultFirebaseOptions.currentPlatform,
