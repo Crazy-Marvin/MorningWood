@@ -70,3 +70,4 @@ firebase_options.dart
 
 # Keystore
 key.properties
+*.jks

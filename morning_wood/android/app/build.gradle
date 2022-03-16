@@ -51,18 +51,22 @@ android {
 
         signingConfigs {
             release {
-                keyAlias keystoreProperties['keyAlias']
-                keyPassword keystoreProperties['keyPassword']
-                storeFile keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
-                storePassword keystoreProperties['storePassword']
+                keyAlias keystoreProperties['morning_wood']
+                keyPassword keystoreProperties['morning_wood']
+                storeFile keystoreProperties['morning_wood.jks'] ? file(keystoreProperties['mornging_wood.jks']) : null
+                storePassword keystoreProperties['morning_wood']
             }
         }
         buildTypes {
             release {
                 signingConfig signingConfigs.release
             }
+                debug {
+                    signingConfig signingConfigs.debug
+                }
+            }
         }
-    }
+
 
 
 flutter {
