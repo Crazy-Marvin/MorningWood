@@ -1,6 +1,7 @@
 [![Codemagic build status](https://api.codemagic.io/apps/61c78ca3ef71eb4bdbb92f1a/61c78ca3ef71eb4bdbb92f19/status_badge.svg)](https://codemagic.io/apps/61c78ca3ef71eb4bdbb92f1a/61c78ca3ef71eb4bdbb92f19/latest_build)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Crazy-Marvin/MorningWood/CI/development)](https://github.com/Crazy-Marvin/MorningWood/actions)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/MorningWood.svg)](https://github.com/Crazy-Marvin/MorningWood/blob/development/LICENSE)
+[![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/MorningWood.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/MorningWood/total.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/releases)
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/MorningWood.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/tags)
