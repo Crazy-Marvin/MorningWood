@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "rocks.poopjournal" "\0"
+            VALUE "CompanyName", "rocks.poopjournal.morningwood.morning-wood" "\0"
             VALUE "FileDescription", "morning_wood" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "morning_wood" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2021 rocks.poopjournal. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 rocks.poopjournal.morningwood.morning-wood. All rights reserved." "\0"
             VALUE "OriginalFilename", "morning_wood.exe" "\0"
-            VALUE "ProductName", "morning_wood" "\0"
+            VALUE "ProductName", "Morning Wood" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

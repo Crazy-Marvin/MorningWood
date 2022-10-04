@@ -21,6 +21,12 @@ if (flutterVersionName == null) {
     flutterVersionName = '1.0'
 }
 
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
@@ -42,32 +48,62 @@ android {
     }
 
     defaultConfig {
-        applicationId "rocks.poopjournal.morning_wood"
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "rocks.poopjournal.morningwood.morning_wood"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
 
-        signingConfigs {
+    signingConfigs {
+        if (System.getenv("ANDROID_KEYSTORE_PATH")) {
             release {
-                keyAlias keystoreProperties['morning_wood']
-                keyPassword keystoreProperties['morning_wood']
-                storeFile keystoreProperties['morning_wood.jks'] ? file(keystoreProperties['mornging_wood.jks']) : null
-                storePassword keystoreProperties['morning_wood']
+                storeFile file(System.getenv("ANDROID_KEYSTORE_PATH"))
+                keyAlias System.getenv("ANDROID_KEYSTORE_ALIAS")
+                keyPassword System.getenv("ANDROID_KEYSTORE_PRIVATE_KEY_PASSWORD")
+                storePassword System.getenv("ANDROID_KEYSTORE_PASSWORD")
+            }
+        } else {
+            release {
+                keyAlias keystoreProperties['keyAlias']
+                keyPassword keystoreProperties['keyPassword']
+                storeFile keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+                storePassword keystoreProperties['storePassword']
             }
         }
-        buildTypes {
-            release {
-                signingConfig signingConfigs.release
-            }
-                debug {
-                    signingConfig signingConfigs.debug
-                }
-            }
+    }
+
+    flavorDimensions "default"
+    productFlavors { 
+        production {
+            dimension "default"
+            applicationIdSuffix ""
+            manifestPlaceholders = [appName: "Morning Wood"]
         }
+        staging {
+            dimension "default"
+            applicationIdSuffix ".stg"
+            manifestPlaceholders = [appName: "[STG] Morning Wood"]
+        }
+        development {
+            dimension "default"
+            applicationIdSuffix ".dev"
+            manifestPlaceholders = [appName: "[DEV] Morning Wood"]
+        }
+    }
 
-
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+        debug {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
 
 flutter {
     source '../..'
