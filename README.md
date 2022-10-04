@@ -14,3 +14,22 @@
 [![API](https://img.shields.io/badge/API-29%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=29)
 [![Google Play](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal.morning_wood)
 # Morning Wood
+
+___TBD___
+
+# Contributing
+
+The ```development``` or a feature branch is used while developing the code, and pushed into the master branch ```trunk``` afterwards for releases.
+PRs to the ```trunk``` need at least one approving review before getting merged.
+
+Help translate the app at [Hosted Weblate](https://hosted.weblate.org/engage/morningwood/).
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+Check out the [contribution guidelines](https://github.com/Crazy-Marvin/MorningWood/blob/trunk/.github/CONTRIBUTING.md) for details please.
+
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
