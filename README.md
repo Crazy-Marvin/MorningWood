@@ -12,6 +12,7 @@
 [![Translation status](https://hosted.weblate.org/widgets/morningwood/-/svg-badge.svg)](https://hosted.weblate.org/engage/morningwood/)
 [![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/MorningWood/badge.svg)](https://snyk.io/test/github/Crazy-Marvin/MorningWood)
 [![API](https://img.shields.io/badge/API-29%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=29)
+[![F-Droid](https://img.shields.io/f-droid/v/rocks.poopjournal.morning_wood.svg)](https://f-droid.org/en/packages/rocks.poopjournal.morning_wood/)
 [![Google Play](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal.morning_wood)
 # Morning Wood
 
