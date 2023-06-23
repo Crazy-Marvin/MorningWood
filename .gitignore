@@ -32,6 +32,8 @@ doc/api/
 
 # Local configuration file (ex. SDK path)
 local.properties
+Flutter-Generated.xcconfig
+flutter_export_environment.sh
 
 # Google Services (ex. APIs and Firebase)
 google-services.json
