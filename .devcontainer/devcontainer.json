@@ -8,7 +8,9 @@
         "vscode": {
             "extensions": [
                 "dart-code.dart-code", 
-                "dart-code.flutter" 
+                "dart-code.flutter",
+                "vscode-icons-team.vscode-icons",
+                "ms-vsliveshare.vsliveshare"
             ]
         }
     },
