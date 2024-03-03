@@ -1,6 +1,6 @@
 Hi!  👋
 
-We’re excited that you’re using **sneak.page** and we’d love to help.
+We’re excited that you’re using **Morning Wood** and we’d love to help.
 To help us help you, please read through the following guidelines.
 
 Please understand that people involved with this project often do so for fun,
@@ -30,4 +30,4 @@ Spending the extra time up front can help save everyone time in the long run.
 
 ## Contributions
 
-See [`contributing.md`](https://github.com/Crazy-Marvin/sneak.page/blob/trunk/.github/CONTRIBUTING.md) on how to contribute. Quality PRs are really appreaciated!
+See [`contributing.md`](https://github.com/Crazy-Marvin/MorningWood/blob/trunk/.github/CONTRIBUTING.md) on how to contribute. Quality PRs are really appreaciated!
