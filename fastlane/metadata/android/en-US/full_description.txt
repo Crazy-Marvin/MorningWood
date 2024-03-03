@@ -1,12 +1,7 @@
-﻿Morning Wood helps you track your morning wood incidents. It features a simple two-button interface, so adding a new entry to the log takes seconds. The data is then shown in a glanceable calendar view, where you’ll also find information on your current and longest streaks of no incidents.
-
+﻿Morning Wood helps you track your morning wood achievements. It features a simple two-button interface, so adding a new entry to the log takes seconds. The data is then shown in a glanceable calendar view, where you’ll also find information on your current and longest streaks of no failures.
 
 Morning Wood includes customization options for the home page as well as a dark mode, which you can turn on permanently or set to follow the system theme. You can back up your logs to the cloud with a tap, and the optional fingerprint lock feature ensures that your data stays out of sight.
 
-
-Morning Wood is an open-source app. You can <a href="">view the source code on GitHub</a> or <a href="">help translate Morning Wood into your language</a>.
-
-
 Webpage: <a href="https://www.crazymarvin.com/morning-wood">https://www.crazymarvin.com/morning-wood</a>
-Translate To Don’t: <a href="https://hosted.weblate.org/engage/morningwood/">https://hosted.weblate.org/engage/morningwood/</a> 
+Translate Morning Wood: <a href="https://hosted.weblate.org/engage/morningwood/">https://hosted.weblate.org/engage/morningwood/</a> 
 Source on GitHub: <a href="https://github.com/Crazy-Marvin/MorningWood">https://github.com/Crazy-Marvin/MorningWood</a>
