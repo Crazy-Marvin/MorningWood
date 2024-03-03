@@ -1,8 +1,0 @@
-current directory: /home/marvin/Documents/Projekte/Crazy Marvin/MorningWood/vendor/bundle/ruby/2.7.0/gems/digest-crc-0.6.4/ext/digest
-/usr/bin/ruby2.7 -I/usr/lib/ruby/2.7.0/rubygems -rrubygems /home/marvin/Documents/Projekte/Crazy\ Marvin/MorningWood/vendor/bundle/ruby/2.7.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/home/marvin/Documents/Projekte/Crazy\ Marvin/MorningWood/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/digest-crc-0.6.4 RUBYLIBDIR\=/home/marvin/Documents/Projekte/Crazy\ Marvin/MorningWood/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/digest-crc-0.6.4
-mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
-
-You might have to install separate package for the ruby development
-environment, ruby-dev or ruby-devel for example.
-
-rake failed, exit code 1
