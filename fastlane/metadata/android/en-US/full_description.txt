@@ -1,6 +1,8 @@
 ﻿Morning Wood helps you track your morning wood achievements. It features a simple two-button interface, so adding a new entry to the log takes seconds. The data is then shown in a glanceable calendar view, where you’ll also find information on your current and longest streaks of no failures.
 
-Morning Wood includes customization options for the home page as well as a dark mode, which you can turn on permanently or set to follow the system theme. You can back up your logs to the cloud with a tap, and the optional fingerprint lock feature ensures that your data stays out of sight.
+Morning Wood includes customization options for the home page as well as a dark mode, which you can turn on permanently or set to follow the system theme. You can back up your logs locally, and the optional fingerprint lock feature ensures that your data stays out of sight. An online account, tracking and advertising are deliberately avoided.
+
+Morning glories are an extremely important indicator of male health. This health app was designed to help <b>man</b>kind keep an eye on this important process.
 
 Webpage: <a href="https://www.crazymarvin.com/morning-wood">https://www.crazymarvin.com/morning-wood</a>
 Translate Morning Wood: <a href="https://hosted.weblate.org/engage/morningwood/">https://hosted.weblate.org/engage/morningwood/</a> 
