@@ -18,6 +18,8 @@
 
 Morning Wood includes customization options for the home page as well as a dark mode, which you can turn on permanently or set to follow the system theme. You can back up your logs locally, and the optional fingerprint lock feature ensures that your data stays out of sight. An online account, tracking and advertising are deliberately avoided.
 
+Morning glories are an extremely important indicator of male health. This health app was designed to help <b>man</b>kind keep an eye on this important process.
+
 <a href="https://f-droid.org/en/packages/rocks.poopjournal.morningwood">
       <img alt="Get it on F-Droid" src="https://user-images.githubusercontent.com/15004217/36919296-19b8524e-1e5d-11e8-8962-48463b1cec8a.png" height="100">
 </a>
@@ -39,4 +41,4 @@ Check out the [contribution guidelines](https://github.com/Crazy-Marvin/MorningW
 
 # License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
