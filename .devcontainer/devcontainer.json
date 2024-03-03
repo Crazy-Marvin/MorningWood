@@ -2,14 +2,11 @@
     "name": "Flutter SDK: With Dart and Flutter extensions",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/jarrodcolburn/features/flutter-sdk:0": {}
+    "ghcr.io/devcontainers-contrib/features/kotlin-sdkman:2": {}
     },
     "customizations": {
         "vscode": {
             "extensions": [
-                "dart-code.dart-code", 
-                "dart-code.flutter",
-                "felixangelov.bloc",
                 "vscode-icons-team.vscode-icons",
                 "ms-vsliveshare.vsliveshare"
             ]
