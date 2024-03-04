@@ -2,6 +2,8 @@
 
 Morning Wood includes customization options for the home page as well as a dark mode, which you can turn on permanently or set to follow the system theme. You can back up your logs locally, and the optional fingerprint lock feature ensures that your data stays out of sight. An online account, tracking and advertising are deliberately avoided.
 
+Wear OS by Google is supported to offer an easy way to input your glories or incidents.
+
 Morning glories are an extremely important indicator of male health. This health app was designed to help <b>man</b>kind keep an eye on this important process.
 
 Webpage: <a href="https://www.crazymarvin.com/morning-wood">https://www.crazymarvin.com/morning-wood</a>
