@@ -1,6 +1,6 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Crazy-Marvin/MorningWood/CI/development)](https://github.com/Crazy-Marvin/MorningWood/actions)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/MorningWood.svg)](https://github.com/Crazy-Marvin/MorningWood/blob/development/LICENSE)
-[![Figma Mockups](https://img.shields.io/badge/Figma-black?logo=figma)](https://www.figma.com/proto/wVJVx5ybDs8s10ufLRIavv/Morning-Wood?node-id=1871%3A12532&scaling=min-zoom)
+[![Figma Mockups](https://img.shields.io/badge/Figma-black?logo=figma)](https://www.figma.com/design/wVJVx5ybDs8s10ufLRIavv/Morning-Wood?m=auto&t=2PTqtcKLU2q4YJFC-6)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/MorningWood.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/MorningWood/total.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/releases)
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/MorningWood.svg?style=flat)](https://github.com/Crazy-Marvin/MorningWood/tags)
